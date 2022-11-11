@@ -1,0 +1,1026 @@
+.............................................................
+Print
+1 2 3 
+1 3 -4 
+-1 -1 -2 
+-1 -4 2 
+Print end
+.............................................................
+.............................................................
+Print list
+1 2 1 -2 
+Print list end
+.............................................................
+choosing column->2
+Done computing L,U,Z
+L 
+Print set
+1 2 Print set end
+ U 
+Print set
+0 3 Print set end
+Z 
+Print set
+Print set end
+L->gcd1i1j2L->gcd1i2j2Normalized LB
+Print
+1 2 3 
+1 3 -4 
+-1 -1 -2 
+-1 -4 2 
+Print end
+U->gcd1i0j2U->gcd1i3j2Normalized UB
+Print
+1 2 3 
+1 3 -4 
+-1 -1 -2 
+-1 -4 2 
+Print end
+dint exit
+
+newrows->4
+newcolumns->2
+Inexact
+Inexact
+Inexact
+Inexact
+Print
+7 17 
+-2 -10 
+-1 1 
+-4 -10 
+Print end
+added new equations
+bpriem 
+
+Print list
+0.588235 -0.4 5 -0.2 
+Print list end
+after adding z
+Print
+7 17 
+-2 -10 
+-1 1 
+-4 -10 
+Print end
+b
+Print list
+1 2 1 -2 
+Print list end
+choosing column->1
+Done computing L,U,Z
+L 
+Print set
+1 3 Print set end
+ U 
+Print set
+0 2 Print set end
+Z 
+Print set
+Print set end
+L->gcd2i1j1L->gcd2i3j1Normalized LB
+Print
+7 17 
+-1 -5 
+-1 1 
+-2 -5 
+Print end
+U->gcd1i0j1U->gcd1i2j1Normalized UB
+Print
+7 17 
+-1 -5 
+-1 1 
+-2 -5 
+Print end
+dint exit
+
+newrows->4
+newcolumns->1
+Inexact
+Inexact
+Inexact
+Inexact
+Print
+18 
+-6 
+1 
+-7 
+Print end
+added new equations
+bpriem 
+
+Print list
+0.888889 3.83333 33 3.42857 
+Print list end
+after adding z
+Print
+18 
+-6 
+1 
+-7 
+Print end
+b
+Print list
+10 -2 5 -1 
+Print list end
+choosing column->0
+Done computing L,U,Z
+L 
+Print set
+1 3 Print set end
+ U 
+Print set
+0 2 Print set end
+Z 
+Print set
+Print set end
+L->gcd6i1j0L->gcd7i3j0Normalized LB
+Print
+18 
+-1 
+1 
+-1 
+Print end
+U->gcd18i0j0U->gcd1i2j0Normalized UB
+Print
+1 
+-1 
+1 
+-1 
+Print end
+...b...
+Print list
+0 3 33 3 
+Print list end
+lb->0  ub->0
+lb->-3  ub->0
+exiting first exit condition
+Print
+-3 
+-2 
+-1 
+0 
+Print end
+return
+Coming out from recursion
+number of solutions4
+variables solved so far1
+Print
+-3 
+-2 
+-1 
+0 
+Print end
+Matx
+Print
+-3 -2 -1 0 
+Print end
+A
+Print
+7 17 
+-1 -5 
+-1 1 
+-2 -5 
+Print end
+sub
+;;4,,2;;;;sub end
+Print
+17 
+-5 
+1 
+-5 
+Print end
+sub
+;;4,,2;;;;sub end
+pooooo
+Print
+7 
+-1 
+-1 
+-2 
+Print end
+A
+Print
+7 
+-1 
+-1 
+-2 
+Print end
+B
+Print
+-3 -2 -1 0 
+Print end
+Print
+-21 -14 -7 0 
+3 2 1 0 
+3 2 1 0 
+6 4 2 0 
+Print end
+Matax
+Print
+-21 -14 -7 0 
+3 2 1 0 
+3 2 1 0 
+6 4 2 0 
+Print end
+10
+b
+Print list
+10 -2 5 -1 
+Print list end
+LB
+Print list
+0 -3 
+Print list end
+UB
+Print list
+21 30 
+Print list end
+done
+lbb->3ubb->21
+sol..
+Print
+-3 
+-2 
+-1 
+0 
+Print end
+solutions of col0
+Print list
+-3 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 3 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 4 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 5 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 6 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 7 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 8 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 9 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 10 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 11 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 12 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 13 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 14 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 15 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 16 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 17 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 18 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 19 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 20 
+Print list end
+nv............
+Print list
+-3 
+Print list end
+Print list
+-3 21 
+Print list end
+pushed to finalcols
+Print
+-3 3 
+-3 4 
+-3 5 
+-3 6 
+-3 7 
+-3 8 
+-3 9 
+-3 10 
+-3 11 
+-3 12 
+-3 13 
+-3 14 
+-3 15 
+-3 16 
+-3 17 
+-3 18 
+-3 19 
+-3 20 
+-3 21 
+Print end
+b
+Print list
+10 -2 5 -1 
+Print list end
+LB
+Print list
+1 -1 
+Print list end
+UB
+Print list
+14 31 
+Print list end
+done
+lbb->1ubb->14
+sol..
+Print
+-3 
+-2 
+-1 
+0 
+Print end
+solutions of col1
+Print list
+-2 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 1 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 2 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 3 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 4 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 5 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 6 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 7 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 8 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 9 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 10 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 11 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 12 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 13 
+Print list end
+nv............
+Print list
+-2 
+Print list end
+Print list
+-2 14 
+Print list end
+pushed to finalcols
+Print
+-3 3 
+-3 4 
+-3 5 
+-3 6 
+-3 7 
+-3 8 
+-3 9 
+-3 10 
+-3 11 
+-3 12 
+-3 13 
+-3 14 
+-3 15 
+-3 16 
+-3 17 
+-3 18 
+-3 19 
+-3 20 
+-3 21 
+-2 1 
+-2 2 
+-2 3 
+-2 4 
+-2 5 
+-2 6 
+-2 7 
+-2 8 
+-2 9 
+-2 10 
+-2 11 
+-2 12 
+-2 13 
+-2 14 
+Print end
+b
+Print list
+10 -2 5 -1 
+Print list end
+LB
+Print list
+2 1 
+Print list end
+UB
+Print list
+7 32 
+Print list end
+done
+lbb->-1ubb->7
+sol..
+Print
+-3 
+-2 
+-1 
+0 
+Print end
+solutions of col2
+Print list
+-1 
+Print list end
+nv............
+Print list
+-1 
+Print list end
+Print list
+-1 -1 
+Print list end
+nv............
+Print list
+-1 
+Print list end
+Print list
+-1 0 
+Print list end
+nv............
+Print list
+-1 
+Print list end
+Print list
+-1 1 
+Print list end
+nv............
+Print list
+-1 
+Print list end
+Print list
+-1 2 
+Print list end
+nv............
+Print list
+-1 
+Print list end
+Print list
+-1 3 
+Print list end
+nv............
+Print list
+-1 
+Print list end
+Print list
+-1 4 
+Print list end
+nv............
+Print list
+-1 
+Print list end
+Print list
+-1 5 
+Print list end
+nv............
+Print list
+-1 
+Print list end
+Print list
+-1 6 
+Print list end
+nv............
+Print list
+-1 
+Print list end
+Print list
+-1 7 
+Print list end
+pushed to finalcols
+Print
+-3 3 
+-3 4 
+-3 5 
+-3 6 
+-3 7 
+-3 8 
+-3 9 
+-3 10 
+-3 11 
+-3 12 
+-3 13 
+-3 14 
+-3 15 
+-3 16 
+-3 17 
+-3 18 
+-3 19 
+-3 20 
+-3 21 
+-2 1 
+-2 2 
+-2 3 
+-2 4 
+-2 5 
+-2 6 
+-2 7 
+-2 8 
+-2 9 
+-2 10 
+-2 11 
+-2 12 
+-2 13 
+-2 14 
+-1 -1 
+-1 0 
+-1 1 
+-1 2 
+-1 3 
+-1 4 
+-1 5 
+-1 6 
+-1 7 
+Print end
+b
+Print list
+10 -2 5 -1 
+Print list end
+LB
+Print list
+3 3 
+Print list end
+UB
+Print list
+0 33 
+Print list end
+done
+lbb->-3ubb->0
+sol..
+Print
+-3 
+-2 
+-1 
+0 
+Print end
+solutions of col3
+Print list
+0 
+Print list end
+nv............
+Print list
+0 
+Print list end
+Print list
+0 -3 
+Print list end
+nv............
+Print list
+0 
+Print list end
+Print list
+0 -2 
+Print list end
+nv............
+Print list
+0 
+Print list end
+Print list
+0 -1 
+Print list end
+nv............
+Print list
+0 
+Print list end
+Print list
+0 0 
+Print list end
+pushed to finalcols
+Print
+-3 3 
+-3 4 
+-3 5 
+-3 6 
+-3 7 
+-3 8 
+-3 9 
+-3 10 
+-3 11 
+-3 12 
+-3 13 
+-3 14 
+-3 15 
+-3 16 
+-3 17 
+-3 18 
+-3 19 
+-3 20 
+-3 21 
+-2 1 
+-2 2 
+-2 3 
+-2 4 
+-2 5 
+-2 6 
+-2 7 
+-2 8 
+-2 9 
+-2 10 
+-2 11 
+-2 12 
+-2 13 
+-2 14 
+-1 -1 
+-1 0 
+-1 1 
+-1 2 
+-1 3 
+-1 4 
+-1 5 
+-1 6 
+-1 7 
+0 -3 
+0 -2 
+0 -1 
+0 0 
+Print end
+12.fianlll
+Print
+-3 3 
+-3 4 
+-3 5 
+-3 6 
+-3 7 
+-3 8 
+-3 9 
+-3 10 
+-3 11 
+-3 12 
+-3 13 
+-3 14 
+-3 15 
+-3 16 
+-3 17 
+-3 18 
+-3 19 
+-3 20 
+-3 21 
+-2 1 
+-2 2 
+-2 3 
+-2 4 
+-2 5 
+-2 6 
+-2 7 
+-2 8 
+-2 9 
+-2 10 
+-2 11 
+-2 12 
+-2 13 
+-2 14 
+-1 -1 
+-1 0 
+-1 1 
+-1 2 
+-1 3 
+-1 4 
+-1 5 
+-1 6 
+-1 7 
+0 -3 
+0 -2 
+0 -1 
+0 0 
+Print end
+Coming out from recursion
+number of solutions46
+variables solved so far2
+Print
+-3 3 
+-3 4 
+-3 5 
+-3 6 
+-3 7 
+-3 8 
+-3 9 
+-3 10 
+-3 11 
+-3 12 
+-3 13 
+-3 14 
+-3 15 
+-3 16 
+-3 17 
+-3 18 
+-3 19 
+-3 20 
+-3 21 
+-2 1 
+-2 2 
+-2 3 
+-2 4 
+-2 5 
+-2 6 
+-2 7 
+-2 8 
+-2 9 
+-2 10 
+-2 11 
+-2 12 
+-2 13 
+-2 14 
+-1 -1 
+-1 0 
+-1 1 
+-1 2 
+-1 3 
+-1 4 
+-1 5 
+-1 6 
+-1 7 
+0 -3 
+0 -2 
+0 -1 
+0 0 
+Print end
+Matx
+Print
+-3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 0 0 0 
+-3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 0 0 0 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 1 2 3 4 5 6 7 8 9 10 11 12 13 14 -1 0 1 2 3 4 5 6 7 -3 -2 -1 0 
+Print end
+A
+Print
+1 2 3 
+1 3 -4 
+-1 -1 -2 
+-1 -4 2 
+Print end
+sub
+;;4,,3;;;;sub end
+Print
+3 
+-4 
+-2 
+2 
+Print end
+sub
+;;4,,3;;;;sub end
+pooooo
+Print
+1 2 
+1 3 
+-1 -1 
+-1 -4 
+Print end
+A
+Print
+1 2 
+1 3 
+-1 -1 
+-1 -4 
+Print end
+B
+Print
+-3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 0 0 0 
+-3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -3 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 0 0 0 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 1 2 3 4 5 6 7 8 9 10 11 12 13 14 -1 0 1 2 3 4 5 6 7 -3 -2 -1 0 
+Print end
+Print
+-9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -6 -6 -6 -6 -6 -6 -6 -6 -6 -6 -6 -6 -6 -6 -3 -3 -3 -3 -3 -3 -3 -3 -3 0 0 0 0 
+-12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -8 -8 -8 -8 -8 -8 -8 -8 -8 -8 -8 -8 -8 -8 -4 -4 -4 -4 -4 -4 -4 -4 -4 0 0 0 0 
+6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 2 2 2 2 2 2 2 2 2 0 0 0 0 
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 10 10 10 10 10 10 10 10 10 10 10 10 10 10 5 5 5 5 5 5 5 5 5 0 0 0 0 
+Print end
+Matax
+Print
+-9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -9 -6 -6 -6 -6 -6 -6 -6 -6 -6 -6 -6 -6 -6 -6 -3 -3 -3 -3 -3 -3 -3 -3 -3 0 0 0 0 
+-12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -12 -8 -8 -8 -8 -8 -8 -8 -8 -8 -8 -8 -8 -8 -8 -4 -4 -4 -4 -4 -4 -4 -4 -4 0 0 0 0 
+6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 2 2 2 2 2 2 2 2 2 0 0 0 0 
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 10 10 10 10 10 10 10 10 10 10 10 10 10 10 5 5 5 5 5 5 5 5 5 0 0 0 0 
+Print end
+10
+b
+Print list
+1 2 1 -2 
+Print list end
+LB
+Print list
+11 -1 
+Print list end
+UB
+Print list
+9 -16 
+Print list end
+done
+lbb->1ubb->-16
+sol..
+Print
+-3 3 
+-3 4 
+-3 5 
+-3 6 
+-3 7 
+-3 8 
+-3 9 
+-3 10 
+-3 11 
+-3 12 
+-3 13 
+-3 14 
+-3 15 
+-3 16 
+-3 17 
+-3 18 
+-3 19 
+-3 20 
+-3 21 
+-2 1 
+-2 2 
+-2 3 
+-2 4 
+-2 5 
+-2 6 
+-2 7 
+-2 8 
+-2 9 
+-2 10 
+-2 11 
+-2 12 
+-2 13 
+-2 14 
+-1 -1 
+-1 0 
+-1 1 
+-1 2 
+-1 3 
+-1 4 
+-1 5 
+-1 6 
+-1 7 
+0 -3 
+0 -2 
+0 -1 
+0 0 
+Print end
+solutions of col0
+Print list
+-3 3 
+Print list end
+Done computation
+No solutionPrint
+Print end
+Inexact
